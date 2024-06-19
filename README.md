@@ -4,7 +4,7 @@
 <!-- Profile Views -->
 
 <p align="center">
-  <a href="https://www.sebastian-baltazar.vercel.app">Website</a> 👀
+  <a href="https://www.sebastian-baltazar.vercel.app" target="_blank">Website</a> 👀
 </p>
 
 ```javascript
@@ -14,7 +14,7 @@ const Sebas = {
   tools: ["React",  "Node", "Tailwindcss", ".NET Framework"],
   databases: ["MySQL", "❤️ MongoDB", "SQL SERVER"],
   more:{
-    challenge: "🟧 Get the Cloud Practitioner Certification"
+    challenge: "🟧 Get the Cloud Practitioner Certification",
     whatILoveTheMost: "I'm a fan of attending conventions to connect with people and learn from different perspectives."
   }
 }
