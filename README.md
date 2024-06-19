@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on
 * PHP
 * .NET
-* !(node.js)[https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000] NODE.JS
+* ![image](https://github.com/sebas-baltor/sebas-baltor/assets/92797860/c3c180bf-786f-4e90-8c1a-13a62ef5ad21) NODE.JS
 
 
 <!--
