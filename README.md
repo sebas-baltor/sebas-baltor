@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 My name is Sebastián
+
+### 🔭 I’m currently working on
+* PHP
+* .NET
+* !(node.js)[https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000] NODE.JS
+
 
 <!--
 **sebas-baltor/sebas-baltor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
