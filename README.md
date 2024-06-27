@@ -1,10 +1,10 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Sebastián</h3>
+<h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Sebastián</h3>
 
 <!-- Profile Views -->
 
-<p align="center">
-  <a href="https://www.sebastian-baltazar.vercel.app" target="_blank">Website</a> 👀
+<p>
+  <a href="https://sebastian-baltazar.vercel.app/" target="_blank">Website</a> 👀
 </p>
 
 ```javascript
