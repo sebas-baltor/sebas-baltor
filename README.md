@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Sebastián [AWS Certified Cloud Practitioner](https://www.credly.com/badges/7572fc2d-cfc6-4091-b5ba-6d9376755f01/public_url)</h3>
+<h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Sebastián <a href="https://www.credly.com/badges/7572fc2d-cfc6-4091-b5ba-6d9376755f01/public_url" target="_blank">AWS Certified Cloud Practitioner</a></h3>
 
 <!-- Profile Views -->
 
