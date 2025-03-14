@@ -1,12 +1,9 @@
 <!-- Heading -->
-<h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Sebastián <a href="https://www.credly.com/badges/7572fc2d-cfc6-4091-b5ba-6d9376755f01/public_url" target="_blank">AWS Certified Cloud Practitioner</a></h3>
+<h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Sebastián 
+![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/112303a1-6465-4d3b-acd0-0d15367ccfb4)
+<a href="https://www.credly.com/badges/7572fc2d-cfc6-4091-b5ba-6d9376755f01/public_url" target="_blank">AWS Certified Cloud Practitioner</a></h3>
 
 <!-- Profile Views -->
-
-<div>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7572fc2d-cfc6-4091-b5ba-6d9376755f01" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
-
 <p>
   <a href="https://sebastian-baltazar.vercel.app/" target="_blank">Website</a> 👀
 </p>
